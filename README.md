@@ -12,4 +12,4 @@ See you! 👍🏻
 - 💻 In the struggle to become a web developer
 
 #### 📱 Find me here
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonmlima2/)](https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_andersonliima_/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersonmlima2/(https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_andersonliima_/)
